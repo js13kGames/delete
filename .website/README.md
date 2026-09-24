@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - arcade
 post: https://github.com/Clocks-in-a-Cooler/daleet_js13k_2020/blob/master/postmortem.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
